@@ -1,7 +1,6 @@
-package main
+package part_v
 
 import (
-	_ "blockchain-learning/part-2/src/utils"
 	"bytes"
 	"crypto/sha256"
 	"fmt"

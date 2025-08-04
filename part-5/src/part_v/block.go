@@ -1,4 +1,4 @@
-package main
+package part_v
 
 import (
 	"bytes"
