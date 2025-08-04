@@ -6,4 +6,4 @@
 #### part 2 [proof-of-work](https://github.com/ReisenTM/BlockChain-learning/blob/main/part-2/proof-of-work.md)
 #### part 3 [persistence](https://github.com/ReisenTM/BlockChain-learning/blob/main/part-3/persistence-and-cli.md)
 #### part 4 [transaction-1](https://github.com/ReisenTM/Blockchain-learning/blob/main/part-4/transaction-1.md)
-#### part 2 [address](https://github.com/ReisenTM/Blockchain-learning/blob/main/part-5/address.md)
+#### part 5 [address](https://github.com/ReisenTM/Blockchain-learning/blob/main/part-5/address.md)
